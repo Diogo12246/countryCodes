@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-Inside the .rar you shall find the jar with the input.txt and countryCodes.txt
+Inside the .rar (TechTask found in this repo) you shall find the jar with the input.txt and countryCodes.txt
 
 countryCodes is hardcoded in the jar to search for its specific name "countryCodes.txt"
 
